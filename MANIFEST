@@ -1,0 +1,14 @@
+[info]
+shortname = "Tag Cloud"
+longname = "Tag Cloud Page"
+type = "page"
+description = "A page that takes MomoKO 2.2 tags and makes a tag cloud out of them. In additon each cloud is a link that lists content using that tag."
+
+[authorization]
+whitelist = "ALL"
+blacklist = "root"
+
+[attribution]
+author = "Jon Saxton"
+email = "cem@tower21studios.com"
+version = "0.1a"
